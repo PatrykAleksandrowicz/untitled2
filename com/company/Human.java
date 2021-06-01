@@ -1,6 +1,6 @@
 package com.company;
 import java.util.Date;
-
+/*ok*/
 public class Human {
     private String firstName;
     private String lastName;
